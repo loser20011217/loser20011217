@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+ <head>
+     <meta charset="utf-8"/>
+     <title>我的第一个网页</title>
+ </head>
+ <body>
+   <h1>这是一个一级标题</h1>
+   <h2>这是一个二级标题</h2>
+   <p>这是一个段落</p>
+   <a href="images/tulip.jpg">我是一个超链接；请点击</a>
+   <img src="http://www/baidu.com/img/baidu_sylogo1.gif"/>
+   <h2>这也是一个2级标题</h2>
+   <p>这也是一个段落</p>
+
+
+   <ol>
